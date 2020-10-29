@@ -4,7 +4,7 @@ A travel Planner App
 
 Allows users to plan their trip with ease. User must provide destination and dates of travel by which the website shows the estimated climate of the given place on the given date.
 
-## Set roject on your PC
+## Set Project on your PC
 
 Follow below steps:
 
